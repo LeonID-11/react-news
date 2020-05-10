@@ -1,3 +1,7 @@
+git remote add origin https://github.com/LeonID-11/react-news.git <br/>
+git push -u origin master <br/> 
+<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
